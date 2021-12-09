@@ -1,0 +1,20 @@
+input[type="text"], input[type="password"], input[type="number"]{
+    outline: none;
+    padding: 5px;
+    width: 300px;
+    border-radius: 3px;
+    border: 1px solid #eee;
+    margin: 5px auto;
+}
+
+label, legend{
+    font-weight: bold;
+}
+
+select{
+    outline: none;
+    padding: 5px;
+    border: 1px solid #eee;
+    margin: 5px auto;
+    border-radius: 3px;
+}
